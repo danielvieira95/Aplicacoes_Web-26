@@ -1,4 +1,5 @@
-# Arquivo serializers responsavel por transformar a requisição de informação para salvar no banco de dados no formato de tabela
+# Arquivo serializers responsavel por transformar a requisição de informação para salvar no banco de dados 
+# no formato de tabela
 # importando da biblioteca rest framework o serializers
 from rest_framework import serializers
 from .models import Produto
